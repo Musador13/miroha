@@ -4,7 +4,6 @@
 
 ### My projects :star2:
 - [Google Play Games Telegram Bot](https://github.com/miroha/GooglePlayGames-TelegramBot)
-- [Google Play Apps Scraper](https://github.com/miroha/google-play-apps-scraper)
 
 ---
 
